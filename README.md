@@ -13,16 +13,16 @@ A code editor (such as VS Code)
 # Steps
 Create a new React Native project by running the following command in your terminal:
 
-**npx react-native init MyApp** 
+**npx react-native init MyApp** -
 This will create a new project named MyApp in your current directory.
 
 Navigate to your project directory and start the development server by running the following command:
 
-**cd MyApp' 
-npm start**
+**cd MyApp**, 
+**npm start** -
 In a new terminal window, run the following command to launch the app in a simulator or on a connected device:
 
-**npx react-native run-ios** 
+**npx react-native run-ios** -
 This command will build and run the app in the iOS simulator. **If you want to run the app in the Android emulator, replace ios with android in the command above.
 
 Once the app is launched in the simulator or on the device, you should see the default React Native app screen.
